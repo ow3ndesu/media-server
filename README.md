@@ -28,7 +28,7 @@ cd media-server
 
 ## Environment Variables
 
-Check your `.env` file, edit as you require.
+Check your `.env` file and edit as you require.
 
 ## Set Permissions
 
@@ -114,8 +114,6 @@ Since qBittorrent uses a temporary password, configure it first:
 3. Add media libraries in Jellyfin:
     - `/data/Movies`
     - `/data/TVShows`
-    - `/data/Music`
-    - `/data/Books`
 
 ### Jellyseerr (NEW!)
 
