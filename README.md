@@ -2,7 +2,7 @@
 
 Forked from [Automation Avenue](https://github.com/automation-avenue/youtube-39-arr-apps-1-click) and I'll try to better this as we go.
 
-## From Video 39 - Deploy ARR apps using just 1 command (full set with Jellyfin and qBittorrent !!!)
+## From [Video 39](https://youtu.be/1eqPmDvMjLY?si=soWz9ggSyDqnz-n1) - Deploy ARR apps using just 1 command (full set with Jellyfin and qBittorrent !!!)
 
 ## To Prowlarr, Sonarr, Radarr stack only with Jellyfin and qBittorrent + Jellyseerr as request automation service!
 
